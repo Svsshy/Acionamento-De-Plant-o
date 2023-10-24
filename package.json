@@ -1,0 +1,11 @@
+{
+  "name": "acionamento-de-plant-o",
+  "version": "1.0.0",
+  "description": "Projeto Criado com intuíto de reformular o processo de confirmação de acionamento de plantão da equipe de Noc da Eiti Soluções.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
